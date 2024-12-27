@@ -4,6 +4,7 @@ public static void main(String[] args) {
     {
         if (a % 2 ==0){
         System.out.println(a);
+            break;
         }
         else{
         System.out.println("No");
